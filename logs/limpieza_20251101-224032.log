@@ -1,0 +1,6 @@
+[2025-11-01T22:40:32-03:00] Inicio de limpieza
+[2025-11-01T22:40:32-03:00] Limpiando archivos antiguos en /tmp
+[2025-11-01T22:41:54-03:00] No existe /c/Users/Administrador/.cache
+[2025-11-01T22:41:54-03:00] CLEAN_APT_CACHE=false -> saltando
+[2025-11-01T22:41:54-03:00] CLEAN_JOURNAL=false -> saltando
+[2025-11-01T22:41:54-03:00] Limpieza finalizada
