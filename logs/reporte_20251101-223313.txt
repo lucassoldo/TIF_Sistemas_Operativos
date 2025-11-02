@@ -1,0 +1,5 @@
+===== REPORTE DEL SISTEMA (20251101-223313) =====
+Host: DESKTOP-S85E2Q5
+Sistema operativo: Windows (Git Bash)
+
+== PROCESOS (top 5 por CPU) ==

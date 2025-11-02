@@ -1,0 +1,24 @@
+===== REPORTE DEL SISTEMA (20251101-223433) =====
+Host: DESKTOP-S85E2Q5
+Sistema operativo: Windows (Git Bash)
+
+== PROCESOS ACTIVOS (muestra limitada por compatibilidad) ==
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1439    1438    1439      16492  pty0      197108 22:25:01 /usr/bin/bash
+     1527    1520    1516      16328  pty0      197108 22:34:33 /usr/bin/bash
+     1526    1520    1516      10572  pty0      197108 22:34:33 /usr/bin/ps
+     1520    1516    1516       6664  pty0      197108 22:34:33 /usr/bin/bash
+     1438       1    1438      18448  ?         197108 22:25:01 /usr/bin/mintty
+     1516    1439    1516      13900  pty0      197108 22:34:31 /usr/bin/bash
+
+== USO DE DISCO ==
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  477G  455G   22G  96% /
+D:                    932G  132M  932G   1% /d
+
+== ÚLTIMOS 5 LOGS DE BACKUP ==
+./logs/backup_20251101-222159.log
+./logs/backup_20251101-221912.log
+./logs/backup_20251101-221107.log
+./logs/backup_20251101-220750.log
+./logs/backup_20251101-212830.log
