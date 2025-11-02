@@ -78,7 +78,7 @@ while true; do
   titulo
   echo -e "${YELLOW}Directorio del proyecto:${RESET} ${ROOT_DIR}"
   echo -e "\nSeleccioná una opción:"
-  echo -e "  ${GREEN}1)${RESET} Backup de directorio (con retención)"
+  echo -e "  ${GREEN}1)${RESET} Backup del trabajo TIF"
   echo -e "  ${GREEN}2)${RESET} Generar reporte de CPU, memoria y disco"
   echo -e "  ${GREEN}3)${RESET} Limpieza de temporales y caché"
   echo -e "  ${GREEN}4)${RESET} Salir"
