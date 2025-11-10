@@ -1,13 +1,14 @@
-# TIF - Sistemas Operativos (Bash)
+# TIF - Sistemas Operativos
 
-Trabajo Integrador Final de la materia **Sistemas Operativos** 
-Alumnos:
-**Lucas Soldo**
-**Pedro Miranda**
-**Lucia Mangioni**
-**Catalina Baviello**
+Trabajo Integrador Final de la materia **Sistemas Operativos**  
+**Alumnos:**
+
+**Lucas Soldo**  
+**Pedro Miranda**  
+**Lucia Mangioni**  
+**Catalina Baviello**  
+
 Tecnicatura Superior en Desarrollo de Software – Instituto IDRA
-
 ## 📄 Descripción
 Este proyecto implementa tres scripts en Bash para automatizar tareas administrativas del sistema:
 1. **Backup:** genera copias comprimidas de una carpeta configurable.
