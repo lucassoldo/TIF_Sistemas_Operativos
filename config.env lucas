@@ -1,4 +1,4 @@
-# config.env - Parámetros editables sin tocar el código
+# config.env - Parámetros editables sin tocar el código.
 # --- Backup ---
 # Directorio a respaldar (CAMBIAR por un directorio real, p.ej. /home/usuario/Documentos/proyecto)
 BACKUP_SOURCE_DIR="Desktop/Nueva carpeta"   # <= cambiá esta ruta para tu demo

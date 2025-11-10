@@ -1,0 +1,7 @@
+[INFO] Iniciando backup: 2025-11-10T07:05:41-03:00
+[INFO] Origen: C:\Users\Administrador\Desktop\Proyecto TIF
+[INFO] Destino: ./backups/backup_Proyecto TIF_20251110-070541.tar.gz
+[OK]  Backup creado: ./backups/backup_Proyecto TIF_20251110-070541.tar.gz
+[INFO] Aplicando retención de 7 días en ./backups
+[OK]  Retención aplicada.
+[INFO] Fin: 2025-11-10T07:05:41-03:00

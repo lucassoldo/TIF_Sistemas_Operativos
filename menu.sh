@@ -1,8 +1,3 @@
-#!/usr/bin/env bash
-# menu.sh - Menú interactivo para ejecutar tareas del TIF de Sistemas Operativos
-# Requiere: bash 4+, GNU coreutils, tar, gzip
-# Uso: ./menu.sh
-# Carga configuración desde config.env si existe
 
 set -euo pipefail
 
@@ -11,7 +6,6 @@ CONFIG_FILE="${ROOT_DIR}/config.env"
 
 # Cargar configuración si existe
 if [[ -f "$CONFIG_FILE" ]]; then
-  # shellcheck disable=SC1090
   source "$CONFIG_FILE"
 fi
 
@@ -68,7 +62,7 @@ op_limpieza() {
   pausa
 }
 
-# Validación de entrada (tarea extra)
+# Validación de entrada
 es_opcion_valida() {
   [[ "$1" =~ ^[1-4]$ ]]
 }

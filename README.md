@@ -1,6 +1,11 @@
 # TIF - Sistemas Operativos (Bash)
 
-Trabajo Integrador Final de la materia **Sistemas Operativos**  
+Trabajo Integrador Final de la materia **Sistemas Operativos** 
+Alumnos:
+**Lucas Soldo**
+**Pedro Miranda**
+**Lucia Mangioni**
+**Catalina Baviello**
 Tecnicatura Superior en Desarrollo de Software – Instituto IDRA
 
 ## 📄 Descripción
@@ -17,5 +22,5 @@ Este proyecto implementa tres scripts en Bash para automatizar tareas administra
 ## ▶️ Instrucciones de uso
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/tif-sistemas-operativos.git
+   git clone https://github.com/lucassoldo/TIF_Sistemas_Operativos
    cd tif-sistemas-operativos

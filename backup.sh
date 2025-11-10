@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bash.
 # backup.sh - Realiza backup comprimido de un directorio y limpia backups antiguos
 # Lee variables desde config.env:
 #   BACKUP_SOURCE_DIR  (Directorio a respaldar)  - obligatorio

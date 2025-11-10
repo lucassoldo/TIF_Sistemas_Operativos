@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bash.
 # limpieza.sh - Elimina archivos temporales y caché para liberar espacio
 # Lee variables opcionales desde config.env:
 #   CLEAN_USER_CACHE=true|false (default true)
